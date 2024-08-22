@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+.imparPar {
+    text-align: center;
+    padding: 3px;
+    float: left;
+    border: 3px double;
+    border-width: 6px;
+}
+.titulo{
+    padding-top: 3px;
+    font-weight: bold;
+}
+#resultado{
+    padding: 6px;
+    font-style: italic;
+    font-weight: bold  ;
+}

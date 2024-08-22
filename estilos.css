@@ -8,11 +8,18 @@ body{
     border: 3px double;
     border-width: 6px;
 }
+.primo{
+    text-align: center;
+    padding: 3px;
+    float: left;
+    border: 3px double;
+    border-width: 6px;
+}
 .titulo{
     padding-top: 3px;
     font-weight: bold;
 }
-#resultado{
+#resultado, #resposta{
     padding: 6px;
     font-style: italic;
     font-weight: bold  ;
